@@ -53,7 +53,7 @@
   bottom: 48px;
   transform: translateX(-100%);
 
-  background-image: url(./../images/svg/star-medium.svg);
+  background-image: url(./../img/svg/star-medium.svg);
   background-repeat: no-repeat;
 }
 
@@ -68,7 +68,7 @@
   top: -10px;
   right: -15px;
 
-  background-image: url(./../images/svg/vector.svg);
+  background-image: url(./../img/svg/vector.svg);
   background-repeat: no-repeat;
 }
 
@@ -145,6 +145,6 @@
 
   transform: translate(-100%, 0%);
 
-  background-image: url('./../images/svg/paw-bullet.svg');
+  background-image: url('./../img/svg/paw-bullet.svg');
   background-repeat: no-repeat;
 }

@@ -24,3 +24,7 @@ body {
 .container--small {
   max-width: 1144px;
 }
+
+.none {
+  display: none !important;
+}
